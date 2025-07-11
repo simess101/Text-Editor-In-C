@@ -66,6 +66,6 @@ To start the editor:
 
 ## License
 
-This project is open-source and free to use. Please give credit to Salvatore Sanfilippo, the creator of the original `kilo` text editor.
+This project is open-source and free to use.
 
 ---
